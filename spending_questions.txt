@@ -1,0 +1,30 @@
+Spending Analysis Practice Questions
+=====================================
+Use my_spending.csv (columns: date, category, amount) to answer these.
+
+BASICS
+------
+1. What's the total amount spent across the whole file (all months)?
+2. How many transactions are there in total?
+3. What's the average amount spent per transaction?
+
+MONTHLY ANALYSIS
+-----------------
+4. How much was spent in September 2026?
+5. Which single day had the highest total spend?
+6. What's the average daily spend for the month?
+
+CATEGORY ANALYSIS
+------------------
+7. Which category had the highest total spend?
+8. Which category had the most transactions (not necessarily the highest amount)?
+9. What percentage of total spend does "Groceries" make up?
+10. Sort all categories from highest to lowest spend.
+
+SLIGHTLY HARDER
+----------------
+11. Find the single largest transaction (amount, category, and date).
+12. List all transactions above R300.
+13. Group spend by week instead of by category - which week was the most expensive?
+14. If you had a monthly budget of R3,500, which categories would you need to cut to get under budget?
+15. Add a new transaction to the CSV programmatically (append a row) and confirm the total updates.
